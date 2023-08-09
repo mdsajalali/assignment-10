@@ -2,6 +2,8 @@
 
 app =  [It works for App Router]
 
+node_modules: [This folder contains all the project's dependencies installed via npm.]
+
 route = [The work of the route file is to create a file here and give it page.js extension, it works as a route.]
 
 nested route = [The function of nested route is that it basically creates a route page and creates another page within that
@@ -15,6 +17,8 @@ globals.css = [It basically works on the CSS design of the entire next js projec
 components = [Inside the components folder, you can create sub-folders for providers , ui , or shared components.]
 
 public =  [Next.js allows you to serve static files, like images, in the public directory]
+
+jsconfig.json: [This file is used to configure JavaScript.]
 
 .gitignore = [Remove development files from  production using git ignore]
 

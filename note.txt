@@ -16,7 +16,7 @@ components = [Inside the components folder, you can create sub-folders for provi
 
 public =  [Next.js allows you to serve static files, like images, in the public directory]
 
-.gitignore = [Configuration file for Next.js]
+.gitignore = [Remove development files from  production using git ignore]
 
 package.json = 	[Project dependencies and scripts]
 

@@ -1,0 +1,23 @@
+.next = [Here are all the resources of next js.]
+
+app =  [It works for App Router]
+
+route = [The work of the route file is to create a file here and give it page.js extension, it works as a route.]
+
+nested route = [The function of nested route is that it basically creates a route page and creates another page within that
+                page and works as a route.]
+
+layout = [The App Router inside Next.js 13 introduced new file conventions to easily create pages, shared layouts,
+           and templates.]
+
+globals.css = [It basically works on the CSS design of the entire next js project.]
+
+components = [Inside the components folder, you can create sub-folders for providers , ui , or shared components.]
+
+public =  [Next.js allows you to serve static files, like images, in the public directory]
+
+.gitignore = [Configuration file for Next.js]
+
+package.json = 	[Project dependencies and scripts]
+
+tailwindCss = [It is basically installed as CSS framework. It works for Design.]
